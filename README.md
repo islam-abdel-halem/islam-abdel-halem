@@ -51,8 +51,3 @@
   <img src="https://streak-stats.demolab.com?user=islam-abdel-halem&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/islam-abdel-halem/islam-abdel-halem/blob/output/snake.svg" alt="Snake animation" />
-
-###
