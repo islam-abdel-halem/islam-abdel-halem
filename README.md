@@ -45,12 +45,16 @@
      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
      </p>
 <br/><hr/>
-<p align="center" href="https://github.com/islam-abdel-halem" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islam-abdel-halem&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></p><br/><br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=islam-abdel-halem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-abdel-halem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=islam-abdel-halem&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=islam-abdel-halem&show_icons=true&theme=transparent" />
-</p><br/><br/>
+###
 
+<br clear="both">
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-abdel-halem&theme=default" alt="eslam80" /></p>
+<img src="https://raw.githubusercontent.com/islam-abdel-halem/islam-abdel-halem/blob/output/snake.svg" alt="Snake animation" />
 
+###
