@@ -53,8 +53,6 @@
 
 ###
 
-<br >
-
 <img src="https://raw.githubusercontent.com/islam-abdel-halem/islam-abdel-halem/blob/output/snake.svg" alt="Snake animation" />
 
 ###
