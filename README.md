@@ -75,17 +75,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ###
 
-<img src="https://raw.githubusercontent.com/islam-abdel-halem/output/snake.svg" alt="Snake animation" />
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/islam-abdel-halem/islam-abdel-halem/output/snake.svg" alt="Snake animation" />
 
 ###
-<a href=#><img src="contributions.svg"></a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/islam-abdel-halem/count.svg" />
-</p>
