@@ -69,4 +69,23 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-abdel-halem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=islam-abdel-halem&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/islam-abdel-halem/count.svg?"  />
+</div>
 
+###
+
+<img src="https://raw.githubusercontent.com/islam-abdel-halem/output/snake.svg" alt="Snake animation" />
+
+
+
+
+
+
+###
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/islam-abdel-halem/count.svg" />
+</p>
