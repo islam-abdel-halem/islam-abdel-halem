@@ -1,8 +1,15 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm ESLAM Mohamed</h1>
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mern-Stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"> -->
+
+<!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" /> -->
+  
+<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
 
 - 🔭 I’m currently working on **Software Engineer**
 
@@ -16,11 +23,16 @@
 
 - 💼 any freelance work? do reach, [email](mailto:eslam80mohamed@gmail.com) :)
 
-- ⚡ Fun fact **My perfect day would start with a Cup of coffee and end with a Cup of coffee☕**
+- ⚡ Fun Facts: 
+    * **My perfect day would start with a Cup of coffee and end with a Cup of coffee☕**
+    * *If you're still reading, why not follow me ?? Let's Connect !!*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslam80&label=Profile%20views&color=0e75b6&style=flat" alt="eslam80" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/islam-mohamed1/" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a> </p>
+ <a href="https://www.linkedin.com/in/islam-mohamed1/" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a> 
+<a href="https://www.facebook.com/profile.php?id=100004704168574" target="blank"> <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
+<a href="https://twitter.com/eslam82mohamed" target="blank"> <img src="https://img.shields.io/static/v1?message=twitter&logo=twitter&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+<br/>
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br/>
 <a href="https://bmc.link/Islammohammed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
