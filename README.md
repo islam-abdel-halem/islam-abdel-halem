@@ -73,7 +73,13 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ###
 
-![snake gif](https://github.com/islam-abdel-halem/islam-abdel-halem/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/islam-abdel-halem/islam-abdel-halem/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<!-- ###
+
+![snake gif](https://github.com/islam-abdel-halem/islam-abdel-halem/blob/output/github-contribution-grid-snake.gif)
+
+### -->
 
