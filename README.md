@@ -11,7 +11,7 @@
   
 <!-- <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" /> -->
 
-- 🔭 I’m currently working on **Software Engineer**
+<!-- - 🔭 I’m currently working on **Software Engineer** -->
 
 - 🌱 I’m currently learning **JavaScript**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em>
 
@@ -49,6 +49,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://codeforces.com/profile/eslam82mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eslam82mohamed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eslam82mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eslam82mohamed" height="30" width="40" /></a>
 <a href="https://discord.gg/islam_abdelhalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ESLAM#5991" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/islam-abdel-halem" target="blank"><img src="https://github.com/islam-abdel-halem/fundamentals-of-programming-with-c--/assets/102685868/4bf94355-ee04-429b-b01d-27972be840fe" alt="Girl in a jacket" height="30" width="40"/></a>
 </p>
 <br/><hr/>
 <h3 align="left">Languages and Tools:</h3>
