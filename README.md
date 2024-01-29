@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm ISLAM Mohamed</h1>
+<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/dancing-cat.gif?raw=true" height="55px" width="55px">, I'm ISLAM Mohamed</h1>
 <!-- <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div> -->
