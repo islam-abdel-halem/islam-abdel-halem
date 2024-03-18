@@ -13,7 +13,7 @@
 
 <!-- - 🔭 I’m currently working on **Software Engineer** -->
 
-- 🌱 I’m currently learning **JavaScript**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em>
+- 🌱 I’m currently learning **Kotlin**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em>
 
 - 👯 I’m looking to collaborate on **Open Source**
 
