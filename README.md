@@ -33,9 +33,7 @@
 <a href="https://www.facebook.com/profile.php?id=100004704168574" target="blank"> <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
 <a href="https://twitter.com/eslam82mohamed" target="blank"> <img src="https://img.shields.io/static/v1?message=twitter&logo=twitter&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 <br/>
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-<br/>
-<a href="https://bmc.link/Islammohammed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 
 <hr/>
 <h3 align="left">Connect with me:</h3>
